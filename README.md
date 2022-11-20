@@ -7,7 +7,7 @@ With an increase in the standard of living, peoples' attention gradually moved t
 
 viedo link
 <img width="1792" alt="Screenshot 2022-11-20 at 12 06 59 PM (1)" src="https://user-images.githubusercontent.com/113419024/202893595-dcdd59da-13f3-4c64-90fa-52d4ce98be64.png">
-<img width="1792" alt="Screenshot 2022-11-20 at 12 06 59 PM (1)" src="https://user-images.githubusercontent.com/113419024/202893664-1fda1fc1-f675-4622-ae30-1f54961ba5ab.png">
+
 
 https://youtu.be/Sy5pEWzYhis
 
