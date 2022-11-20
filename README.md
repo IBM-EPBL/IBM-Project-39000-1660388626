@@ -5,8 +5,6 @@ Smart Fashion Recommender Application
 
 With an increase in the standard of living, peoples' attention gradually moved towards fashion that is concerned to be a popular aesthetic expression. Humans are inevitably drawn towards something that is visually more attractive. This tendency of humans has led to the development of the fashion industry over the course of time. However, given too many options of garments on the e-commerce websites, has presented new challenges to the customers in identifying their correct outfit. Thus, in this project, we proposed a personalized Fashion Recommender system that generates recommendations for the user based on an input given. Unlike the conventional systems that rely on the user's previous purchases and history, this project aims at using an image of a product given as input by the user to generate recommendations since many-a-time people see something that they are interested in and tend to look for products that are similar to that. We use neural networks to process the images from Fashion Product Images Dataset and the Nearest neighbour backed recommender to generate the final recommendations.
 
-
-
 viedo link
 <img width="1792" alt="Screenshot 2022-11-20 at 12 06 59 PM (1)" src="https://user-images.githubusercontent.com/113419024/202893595-dcdd59da-13f3-4c64-90fa-52d4ce98be64.png">
 <img width="1792" alt="Screenshot 2022-11-20 at 12 06 59 PM (1)" src="https://user-images.githubusercontent.com/113419024/202893664-1fda1fc1-f675-4622-ae30-1f54961ba5ab.png">
