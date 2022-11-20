@@ -5,9 +5,13 @@ Smart Fashion Recommender Application
 
 With an increase in the standard of living, peoples' attention gradually moved towards fashion that is concerned to be a popular aesthetic expression. Humans are inevitably drawn towards something that is visually more attractive. This tendency of humans has led to the development of the fashion industry over the course of time. However, given too many options of garments on the e-commerce websites, has presented new challenges to the customers in identifying their correct outfit. Thus, in this project, we proposed a personalized Fashion Recommender system that generates recommendations for the user based on an input given. Unlike the conventional systems that rely on the user's previous purchases and history, this project aims at using an image of a product given as input by the user to generate recommendations since many-a-time people see something that they are interested in and tend to look for products that are similar to that. We use neural networks to process the images from Fashion Product Images Dataset and the Nearest neighbour backed recommender to generate the final recommendations.
 
-viedo link
+#welcome to Fashion Recommender system
 <img width="1792" alt="Screenshot 2022-11-20 at 12 06 59 PM (1)" src="https://user-images.githubusercontent.com/113419024/202893595-dcdd59da-13f3-4c64-90fa-52d4ce98be64.png">
 
+<img width="1792" alt="Screenshot 2022-11-20 at 12 07 16 PM (1)" src="https://user-images.githubusercontent.com/113419024/202894168-9c22b329-6a55-4634-b110-10273fec3bba.png">
+
+
+viedo link
 
 https://youtu.be/Sy5pEWzYhis
 
@@ -25,6 +29,9 @@ aspect of life for modern families since a person is more often than not judged 
 Moreover, apparel providers need their customers to explore their entire product line so they can 
 choose what they like the most which is not possible by simply going into a cloth store.
 
+<img width="1792" alt="Screenshot 2022-11-20 at 12 07 56 PM" src="https://user-images.githubusercontent.com/113419024/202894217-5eb97d06-c6d0-4393-bea1-27f360a41530.png">
+
+
 ## Related work
 
 In the online internet era, the idea of Recommendation technology was initially introduced in the mid-90s. Proposed CRESA that combined visual features, textual attributes and visual attention of 
@@ -34,8 +41,7 @@ the contents like fabric, collar, sleeves, etc., to produce recommendations. In 
 diverse needs of different users, an intelligent Fashion recommender system is studied based on 
 the principles of fashion and aesthetics. To generate garment recommendations, customer ratings and 
 clothing were utilized in The history of clothes and accessories, weather conditions were 
-considered in to<img width="1792" alt="Screenshot 2022-11-20 at 12 06 59 PM (2)" src="https://user-images.githubusercontent.com/113419024/202893537-1ff84beb-a091-4152-8a09-f7afcbde5e3a.png">
- generate recommendations.
+considered in to generate recommendations.
 
 ##  Proposed methodology
 
